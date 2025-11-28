@@ -1,0 +1,26 @@
+# Environment Variables
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Data & Sessions
+sessions/
+logs/
+*.log
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Artifacts (if you don't want to track them in the main repo, though usually you might)
+# For this project, we might want to keep the documentation pdfs/images
+# But maybe ignore the raw artifacts folder if it exists in the root (it doesn't here, it's in .gemini)
+
+# Output reports
+focus_group_report.md

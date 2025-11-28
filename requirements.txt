@@ -1,0 +1,11 @@
+tinytroupe
+mcp
+python-dotenv
+google-generativeai
+streamlit
+pandas
+matplotlib
+fpdf2
+duckduckgo-search
+textblob
+pydantic
